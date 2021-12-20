@@ -1,0 +1,12 @@
+{
+  "name": "npmkoussaitest-11",
+  "version": "1.0.0",
+  "description": "example npm test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["koussai", "testnpm"],
+  "author": "koussai",
+  "license": "ISC"
+}
