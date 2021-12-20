@@ -1,6 +1,6 @@
 {
   "name": "npmkoussaitest-11",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "example npm test",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,9 @@
   },
   "keywords": ["koussai", "testnpm"],
   "author": "koussai",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:koussaimb/npmkoussaitest-11.git"
+  }
 }
